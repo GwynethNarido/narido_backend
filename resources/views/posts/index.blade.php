@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modern Blog</title>
+    <title>Welcome po!</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
             --primary: #6366f1;
-            --bg: #f8fafc;
-            --card-bg: #ffffff;
+            --bg: #76da94;
+            --card-bg: #9c3d94;
             --text-main: #1e293b;
             --text-muted: #64748b;
         }
@@ -39,7 +39,7 @@
             font-weight: 800;
             letter-spacing: -0.025em;
             margin: 0;
-            background: linear-gradient(to right, #6366f1, #a855f7);
+            background: linear-gradient(to right, #6466e6, #a855f7);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -55,7 +55,7 @@
             border-radius: 16px;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
             transition: transform 0.2s ease, box-shadow 0.2s ease;
-            border: 1px solid #f1f5f9;
+            border: 1px solid #789cc0;
         }
 
         .post-card:hover {
